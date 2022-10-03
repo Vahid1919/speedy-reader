@@ -209,7 +209,7 @@ input[type=range]:focus::-ms-fill-upper {
 
 .book-item{
   width: 100%;
-  height: 5em;
+  height: 4em;
   
 
   border-bottom: 1px solid rgb(72, 72, 72);
@@ -260,8 +260,8 @@ input[type=range]:focus::-ms-fill-upper {
 }
 
 .delete-btn{
-  width: 2em;
-  height: 2em;
+  width: 1.5em;
+  height: 1.5em;
   color: white;
   transition: color 200ms ease-in-out;
 }
