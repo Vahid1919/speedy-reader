@@ -1,7 +1,7 @@
 import Book from "./Book"
 import AddButton from "./AddButton"
 const BookList = ({books, updateBookList}) => {
-  console.log(books)
+
 
   const deleteBook = (id) => {
     const newBookList = books.filter(book => {

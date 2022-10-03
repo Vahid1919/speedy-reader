@@ -1,5 +1,5 @@
-import Nav from "./components/Nav"
-import BookList from "./components/BookList"
+import Nav from "../components/Nav"
+import BookList from "../components/BookList"
 import { useState } from 'react'
 
 
