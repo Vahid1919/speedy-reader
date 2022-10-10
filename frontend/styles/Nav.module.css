@@ -1,0 +1,16 @@
+.nav{
+    width: 100vw;
+    height: 17vw;
+    background-color: var(--secondary);
+    display: flex;
+    overflow: hidden;
+    cursor: pointer;
+  }
+
+  .title{
+    padding: 0.1em;
+    margin: auto 0.4em;
+    font-size: 10vw;
+    font-family: Lobster;
+    transition: all 200ms ease;
+  }
